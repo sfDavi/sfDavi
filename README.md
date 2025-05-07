@@ -5,9 +5,9 @@
 | |_| | (_| |\ V /| | 
 |____/ \__,_| \_/ |_| 
 ```
-Hi, I’m @sfDavi
-I’m interested in game development and cyber security
-I’m currently studying Software Engineering at UFG                                         
+-Hi, I’m @sfDavi
+-I’m interested in game development and cyber security
+-I’m currently studying Software Engineering at UFG                                         
                                                                                 
                                                                                 
                                                                                 
