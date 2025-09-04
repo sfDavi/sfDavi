@@ -9,9 +9,9 @@ ____              _    ____
 </pre>
 </h1>
 
-## Estudante de Engenharia de Software (UFG)
+### Estudante de Engenharia de Software (UFG)
 
-## Graduando em Segurança Cibernética (IPOG) 
+### Graduando em Segurança Cibernética (IPOG) 
 ---
 
 ## Tecnologias e Ferramentas
