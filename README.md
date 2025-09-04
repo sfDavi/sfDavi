@@ -8,7 +8,6 @@ ____              _    ____
 |____/ \__,_| \_/ |_|  \/___/
 </pre>
 </h1>
-#
 
 Estudante de Engenharia de Software (UFG)
 Graduando em Segurança Cibernética (IPOG) 
